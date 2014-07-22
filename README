@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4990
+
+Just an update for version by Peter Sommerfeld (http://www.vim.org/scripts/script.php?script_id=873)
+
++ Fixed syntax match for 16-Bit Addresses
++ Added commonly used data fields in header (Version, Revision)
++ Added count register (S5) support
